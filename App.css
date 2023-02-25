@@ -1,0 +1,21 @@
+body {
+  background: url(C:\Users\lovec\Downloads\2023년_03월_HD.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.weather-box {
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 30px;
+}
