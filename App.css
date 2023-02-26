@@ -19,3 +19,16 @@ body {
   padding: 30px;
   margin: 30px;
 }
+
+.bootbtn {
+  margin: 3px;
+}
+
+@media  screen and (max-width:48rem) { /*미디어쿼리 (모바일버전)*/
+  .bootbtn{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+  }
+}

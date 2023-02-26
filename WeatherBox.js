@@ -7,7 +7,7 @@ const WeatherBox = ({weather}) => {
     <div className='weather-box'>
         <div>{weather?.name}</div>
         <h2>{weather?.main.temp}°C 💙 {weather?.weather[0].description}</h2>
-        <h3>happy day</h3>
+        <h7>Have a good day</h7>
     </div>
     )
 }
