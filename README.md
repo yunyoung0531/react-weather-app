@@ -1,6 +1,6 @@
 ## 리액트로 날씨앱 만들어보기
 
-API 출처 - https://openweathermap.org/api
+* API 출처 - https://openweathermap.org/api
 
 <img src="https://user-images.githubusercontent.com/68066598/221410224-17d39af7-cea6-4f50-919a-de10dc1ae563.png"  width="600" height="300"/>
 
